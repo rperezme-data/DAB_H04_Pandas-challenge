@@ -8,7 +8,7 @@ The analysis is done through the following workflow:
 2. Import CSV data into DataFrames.
 3. Build analysis dataset:
    + Combine (merge) data into a single dataset.
-   + Select relevant data (columns) and rename headers to generate a clear and concise analysis dataset.
+   + Select relevant data (columns) and rename headers to generate a clear and concise working dataset.
    + Add data validators (score pass booleans) to compute results in a consistent manner across the whole data analysis.
 4. Compute and Summarize data:
    + Descriptive statistics (sum, avg, %).
