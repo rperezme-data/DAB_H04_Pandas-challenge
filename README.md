@@ -15,7 +15,7 @@ The analysis is done through the following workflow:
    + Sorting.
    + Conditional statements to filter data.
    + Combining (merging).
-   + Binning.
+   + Binning (range categorization).
 5. Display results:
    + Dataset (tables) visualization.
    + Styling (display results in a clean format).
