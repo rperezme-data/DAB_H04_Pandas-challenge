@@ -20,3 +20,6 @@ This script takes advantage of Jupyter Notebook features to showcase the descrip
    + Dataset (tables) visualization.
    + Styling (display results in a clean format).
    + Description of observable trends based on data.
+
+### Note
+The `main.ipynb` Jupyter Notebook is not correctly displayed in the GitHub interface. It is strongly suggested to download the file and run it natively.
