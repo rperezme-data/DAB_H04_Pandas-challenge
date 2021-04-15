@@ -1,5 +1,5 @@
 # Pandas-challenge
-### Data Analysis of sample district-wide standarized test results for math and reading scores (9th-12th grade).
+### Data Analysis of sample district-wide standarized test results for math and reading scores (9th-12th grade)
 
 This script takes advantage of Jupyter Notebook features to showcase the description of the workflow (Markdown), the programming code (Python), computing and displaying results (Pandas Dataframes).
 
