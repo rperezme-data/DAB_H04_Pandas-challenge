@@ -19,4 +19,4 @@ The analysis is done through the following workflow:
 5. Display results:
    + Dataset (tables) visualization.
    + Styling (display results in a clean format).
-   + Description of observable trends based on data
+   + Description of observable trends based on data.
