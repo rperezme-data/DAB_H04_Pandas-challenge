@@ -4,7 +4,7 @@
 This script takes advantage of Jupyter Notebook features to showcase the description of the workflow (Markdown), the programming code (Python), computing and displaying results (Pandas Dataframes).
 
 #### The analysis is done through the following workflow:
-1. Read data from imput files (CSV).
+1. Read data from input files (CSV).
 2. Import CSV data into DataFrames.
 3. Build analysis dataset:
    + Combine (merge) data into a single dataset.
